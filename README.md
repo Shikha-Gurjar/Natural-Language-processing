@@ -4,3 +4,6 @@
 
  Ex. Alexa, Chatbot etc
  ![images.jpg](images/NLP-image.jpg)<br><br>
+ 
+ - [Link for the Jupyter notebook](.fake_or_real.ipynb)
+
